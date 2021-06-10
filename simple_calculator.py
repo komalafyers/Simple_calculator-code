@@ -27,3 +27,6 @@ while True:
     
     
 print("hi komala")    
+print("hello")
+print("welcome to fyers")
+
